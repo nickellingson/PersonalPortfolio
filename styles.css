@@ -28,7 +28,7 @@ nav{
     font-weight: 500;
     display: flex;
     justify-content: space-around;
-    color: rgb(58, 7, 92);
+    color: rgb(137, 53, 194);
     font-size: 30px;
     cursor: pointer;
 }
@@ -39,7 +39,7 @@ nav{
 
 
 .nav-links:hover{
-color:rgb(150, 28, 221);
+color:rgb(202, 130, 243);
 }
 
 .nav-links-two{
@@ -47,7 +47,7 @@ color:rgb(150, 28, 221);
 }
 
 .nav-links-two:hover{
-    color:rgb(150, 28, 221);
+    color:rgb(202, 130, 243);
     }
 
 
@@ -70,7 +70,7 @@ color:rgb(150, 28, 221);
 .intro-text h1{
     font-size: 56px;
     font-weight: 500;
-    background: linear-gradient(to right, rgb(58, 7, 92), #d2d2d6);
+    background: linear-gradient(to right, rgb(137, 53, 194), #d2d2d6);
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -87,9 +87,9 @@ color:rgb(150, 28, 221);
 }
 
 .cta-select {
-    border: 2px solid rgb(58, 7, 92);
+    border: 2px solid rgb(137, 53, 194);
     background: transparent;
-    color: rgb(58, 7, 92);
+    color: rgb(137, 53, 194);
     width: 150px;
     height: 50px;
     cursor: pointer;
@@ -98,12 +98,12 @@ color:rgb(150, 28, 221);
 }
 
 .cta-select:hover{
-    color:rgb(150, 28, 221);
-    border: 2px solid rgb(150, 28, 221);
+    color:rgb(202, 130, 243);
+    border: 2px solid rgb(202, 130, 243);
 }
 
 .cta-select1 {
-    background: rgb(58, 7, 92);
+    background: rgb(137, 53, 194);
     color:black;
     border: none;
     width: 150px;
@@ -115,8 +115,8 @@ color:rgb(150, 28, 221);
 }
 
 .cta-select1:hover{
-    color:rgb(150, 28, 221);
-    border: 2px solid rgb(150, 28, 221);
+    color:rgb(202, 130, 243);
+    border: 2px solid rgb(202, 130, 243);;
 }
 
 @media screen and (max-width: 1086px) {
