@@ -3,29 +3,13 @@
 
 * {
     box-sizing: border-box;
-    margin: 0;
+    margin: 4%;
     padding: 0;
     background: black;
     font-family: 'Montserrat', sans-serif;
 }
 
-div {
-
-    color:rgb(202, 130, 243);
+body {
+    background: black;
+    color: rgb(202, 130, 243);
 }
-#one {
-    color:rgb(202, 130, 243);
-}
-#two {
-    color:rgb(202, 130, 243);
-}
-#three {
-    color:rgb(202, 130, 243);
-}
-#four {
-    color:rgb(202, 130, 243);
-}
-
-.pdf {
-flex: 1;
-    }
